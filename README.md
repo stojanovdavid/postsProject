@@ -1,9 +1,9 @@
 
-                                                                  This is my project
-                                                                      
-                                                                      
-                                                                      
-                                          This is the page that the user is going to be redirected after registering and loging in
+                                                              This is my project
+
+
+
+                                      This is the page that the user is going to be redirected after registering and loging in
                                                   
                                                   
 ![dashboard](https://user-images.githubusercontent.com/90925461/161109447-152b6e32-3333-4da8-8bd7-efc6befbb1d8.png)
