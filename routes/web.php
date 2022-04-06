@@ -4,6 +4,7 @@ use App\Http\Controllers\Auth\RegisteredUserController;
 use App\Http\Controllers\CategoryController;
 use App\Http\Controllers\CommentController;
 use App\Http\Controllers\ImageController;
+use App\Http\Controllers\LikeController;
 use App\Http\Controllers\PostController;
 use App\Http\Controllers\TagController;
 use App\Models\Category;
@@ -45,6 +46,11 @@ Route::post('/category/create', [CategoryController::class, 'store'])->name('cat
 Route::delete('/category/delete/{id}', [CategoryController::class, 'destroy'])->name('category.delete');
 
 Route::get('/tag/{name}', [TagController::class, 'index']);
+
+Route::post('post/{id}/like', [LikeController::class, 'store'])->name('post.like');
+Route::delete('post/like/{id}/delete', [LikeController::class, 'destroy'])->name('like.delete');
+
+
 
 Route::get('/dashboard', function () {
     $category = Category::all();
