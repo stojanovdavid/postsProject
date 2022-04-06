@@ -26,8 +26,8 @@ We can create both categories and posts in the navigation bar
 
 
                                                 
-  We can click our categories and see all the posts that are in that category. Also, only the user who published
-  the post can edit it or delete it
+  We can click our categories and see all the posts that are in that category, who published them and the number of likes. Also, only the user who published
+  the post can edit it or delete it. Also, the registered user can like or unlike the posts.
   
   ![postlikes](https://user-images.githubusercontent.com/90925461/161946886-bc2f8a05-2d71-4a70-9253-d5373d6920c4.png)
 
