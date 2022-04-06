@@ -28,8 +28,9 @@ We can create both categories and posts in the navigation bar
                                                 
   We can click our categories and see all the posts that are in that category. Also, only the user who published
   the post can edit it or delete it
-                                                
-   ![post](https://user-images.githubusercontent.com/90925461/161110637-4b0d2548-1998-43c4-a367-4812ff7815d7.png)
+  
+  ![postlikes](https://user-images.githubusercontent.com/90925461/161946886-bc2f8a05-2d71-4a70-9253-d5373d6920c4.png)
+
 
 
 We then can view the post and its comments, and just like the posts, the user can only edit or delete his own comment
